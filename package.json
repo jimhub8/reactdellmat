@@ -14,7 +14,7 @@
     "@react-navigation/drawer": "^5.3.4",
     "@react-navigation/native": "^5.1.3",
     "@react-navigation/stack": "^5.2.8",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "glamorous-native": "^2.0.0",
     "native-base": "^2.13.12",
     "react": "16.11.0",
